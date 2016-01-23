@@ -1,0 +1,55 @@
+Notes from class 01/22/16
+
+PIE
+P - Polymorphysm
+I - Inheritance
+E - Encapsulation
+
+Signature
+
+Errors-
+Exceptions
+
+In a single java class you can have multiple classes but only one Public class
+
+Comments
+// single line
+
+/** enter and it automatically ends the comments
+
+select the block and Ctrl + Shift + / will comment the selected block of code
+
+goto w3schools.com and start learning html
+
+There are 50 keywords in Java and should know by hardd by the end of this course
+
+Data Types:
+
+byte		8  -128 To 127
+short		16 
+int			32
+long		64
+
+Double 		64
+Float		32  Float is represented by f at the end of floating point Ex: 3.55f
+
+char  char = 8 bits
+boolean
+
+
+Cntrl + Shift + F will format the code
+
+there two data types
+primitive data types..8
+wrapper data types...will learn them later down the line
+
+local variable - always declared inside a method
+instance variables - declared first thing in the class or ourside of all methods
+Global variables..
+
+When you try to assign smaller data type to bigger data type ....You will get Type mismatch: Can not convert from float to integer
+Most of the times there is problem in assigning bigger data type to small..like int a = 50; short a1 = a;
+
+Try to open debug and play around all the features of the debug.
+
+
